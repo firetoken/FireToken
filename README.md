@@ -12,12 +12,22 @@ We are also running other trading bots on the exchanges and a multitude of autom
 
 
 Tokens withdrawal will be enabled for all members at the same time after our distribution ends.
-The staking and voting systems will be in place for you after ICO and distribution to use as well. Staking and voting are completely decentralized. Hosting API widget coding instruction will be provided as well for interested hosts. Free blockchain voting for FireToken stakeholders will provides great utility for those who wishes to create their own polls, questions, elections, or simply to collect better public data. 
-Some changes will also be made on our website, regarding the maximum cap staking payment explanation. The changes are democractically agreed upon by our management team to avoids negative interpretation of unsustainable payout structure by future potential investors. 
-We want the future market to not limited their focus on the possible maximum staking reward, but on FireToken system and its network. 
-We are the only token that offers true decentralized, FREE blockchain voting via staking. FireToken represents BOTH a stored of value AND a continual, renewable utility. Combines this with our wide arrays of in-house services that accept ONLY FireTokens as payments, and an expanding partnership program that also accept FireTokens we will get a common currency that is not only profitable but also useful to keep and use.
-FireToken is fully decentralized, easy to use, runs on blockchain smart contracts and valued by a great community support and utilization. Our total profit revenue is made up of a diversified ecosystem to ensure the long and prosperous continuation of our economy. This is only the start of a newly developed system, lead by the right people using the right tools. Thank you for your interest on FireToken.
 
+
+Democracy is a privilege we often take for granted. The privilege of being able to let each individual voice be heard and counted were often fought and protected, at a great cost. We are witnessing the rise of blockchain and the forming of a new decentralized, virtual currency system. Cryptocurrency represents an evolution of our global monetary system. A system that can be universally accepted and stored wealth can be quickly transferable across the internet.
+We know that cryptocurrency is in its infancy stage. We see the potential improvements blockchain technology can bring to our world. This new technology is not meant to immediately replace our current system, but rather an addition to improve what we already have. Due to the infancy stage cryptocurrency is in, we often experience many rise and fall of multiple systems, as well as wide spread manipulation of data, value and interpretation. With any new innovation, there will be resistance. The actions and mistakes made today will lay the foundation of a better system tomorrow. Innovations that were stand-alone will be combined to produce a better product in the future. Many cryptocurrencies will fall, some will persist and eventually be universally accepted. FireToken may be one to persists, or we may be replaced by a better system. Until then, we will do our part of contributing what we are capable of, in order to achieve the overall improvement of blockchain technology.
+Our decentralized voting program is enabled for all FireToken’s prospective hosts and FireTokens holders immediately after distribution. This instruction will walk you through how to set up and participate in our decentralized voting process.
+ 
+ Possible Applications of FireToken’s decentralized voting system:
+- FireToken is the very FIRST crossed platforms, RENEWABLE universal blockchain voting/ points system.
+- When combined with KYC and other existing security features, FireToken can be used for any personal, political, financial and contest voting processes.
+- Exchanges promotional listing using community votes can incorporate FireToken’s staking wallet into new account registration, to create a renewable and blockchain verifiable voting process.
+- Online merchants that utilize reviews and rating on their products can utilize FireToken blockchain voting to create honest reviews of their product listings.
+- Blockchain gaming industries can incorporate FireToken’s staking wallets and points system to allow registered gamers free access to gaming functions by using the free FirePowers points from staking, or to unlock paid contents by spending their FireTokens balance.
+- Communities across the internet can use FireToken’s renewable voting system to engage with their members, while limiting the financial lost that is usually associated with buying voting tokens and sending it into a voting address.
+- FirePowers points are set to expire after 7 days if not used, this will avoid voting points accumulation and minimize possible adulteration of polls by accumulators.
+- Local and federal governmental voting functions can incorporate FireToken’s staking reward point wallet system into their voting registration. Additional verification processes such as any existing facial recognition software and biometric security will add extra layers of security, creating an easier at-home voting process for their citizens.
+- FireToken’s voting system is still at its infancy stage, additional function can be added onto it. The continuing adaptation and evolution of FireToken’s network will provides better enhancements of its renewable blockchain voting process, in order to promote FREE and EASY democracy for all.
 
 You may find more information about us using the following links:
 
@@ -43,6 +53,12 @@ https://drive.google.com/file/d/1oAn0f5yOcCsKoD_Y8r-1dxpmZ3LMfKOc/view?usp=shari
 
 Air-Gapped Wallet Tutorial:
 https://drive.google.com/file/d/1BsWC8Qkx71KF9vOGgIQI0w-OWXB6eqmu/view?usp=sharing
+
+FireToken decentralized Staking system Tutorial:
+https://drive.google.com/open?id=1V7Z_cZcjkUQamBKJNrhlPP18eVPbKzKQ
+
+FireToken decentralized Voting System Tutorial:
+https://drive.google.com/open?id=1p2mpFnqpP8rKHdWLMWTCEsdF4OmOGtIA
 
 Our current partners, whom we pledge to support:
 
