@@ -60,7 +60,7 @@ FireToken decentralized Staking system Tutorial:
 https://drive.google.com/open?id=1V7Z_cZcjkUQamBKJNrhlPP18eVPbKzKQ
 
 FireToken decentralized Voting System Tutorial:
-https://drive.google.com/open?id=1p2mpFnqpP8rKHdWLMWTCEsdF4OmOGtIA
+https://drive.google.com/open?id=16CgN_QwpPEXlVjtQItQYxYgQGXcaFe8k
 
 Our current partners, whom we pledge to support:
 
